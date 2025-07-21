@@ -4,7 +4,7 @@
 
 ### Frontend Developer | React | TypeScript | TailwindCSS
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=Frontend+Developer;React+%2F+Next.js+Specialist;JavaScript+%26+TypeScript+Lover;Always+Learning+New+Tech!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=Frontend+Developer;React+Specialist;JavaScript+%26+TypeScript+Lover;Building+Beautiful+UIs!)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,13 +12,13 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Frontend Developer** focused on building fast, responsive, and beautiful web interfaces using modern tools like **React**, **Next.js**, and **Tailwind CSS**.
+I'm a passionate **Frontend Developer** focused on building fast, responsive, and beautiful web interfaces using modern tools like **React**, **Redux Toolkit**, and **Tailwind CSS**.
 
 ### ⚡ What I Do:
-- Convert UI designs into interactive web apps
-- Write clean, scalable, and maintainable code
-- Stay updated with the latest frontend trends
-- Currently learning: **Framer Motion** and **GraphQL**
+- Craft reusable UI components using **React** and **MUI**
+- Manage complex state using **Redux Toolkit** & **React Query**
+- Style apps with **TailwindCSS** and **styled-components**
+- Continuously learn and improve my skills
 
 ---
 
@@ -28,11 +28,18 @@ I'm a passionate **Frontend Developer** focused on building fast, responsive, an
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 
-### Styling & Tools
+### State & Data Management
+![Redux](https://img.shields.io/badge/-Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+
+### Styling & UI
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-hotpink?style=flat-square&logo=sass&logoColor=white)
+![styled-components](https://img.shields.io/badge/-styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![Material UI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+
+### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
@@ -60,8 +67,11 @@ I'm a passionate **Frontend Developer** focused on building fast, responsive, an
 
 ---
 
+## 🌟 Quote of the Day
+
 <div align="center">
 
-_“Code is like humor. When you have to explain it, it’s bad.”_
+> **"Strive for progress, not perfection."**  
+> <sub>— A reminder to build and ship, even when it’s not perfect yet.</sub>
 
 </div>
