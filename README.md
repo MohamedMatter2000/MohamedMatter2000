@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Mohamed Mohamed
+# 👋 Hi there! I'm Mohamed Hamdy
 
 <div align="center">
 
